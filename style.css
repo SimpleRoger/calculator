@@ -1,0 +1,9 @@
+button {
+    padding:20px;
+}
+
+.calc {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
